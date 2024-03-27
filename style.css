@@ -1,6 +1,17 @@
 body{
-    background: #cccccc;
+    
+}
+#banner{
+    width: 100%;
+}
+.principal{
+    background: #CCCCCC;
 }
 h2{
+    
     text-align: center;
+}
+
+em strong{
+    color: red;
 }
